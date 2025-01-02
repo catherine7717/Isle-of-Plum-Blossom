@@ -1,6 +1,6 @@
 # **Isle of Plum Blossom**
 
-A cooking simulation game that blends traditional Chinese culinary culture** with engaging interactive mechanics.
+A cooking simulation game that blends traditional Chinese culinary culture with engaging interactive mechanics.
 
 ## **Alpha Release**
 
