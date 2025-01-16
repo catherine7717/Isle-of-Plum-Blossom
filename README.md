@@ -20,12 +20,11 @@ A cooking simulation game that blends traditional Chinese culinary culture with 
 
 ### **Final Release:**
 - **Publish to Steam**
-- **Execute publicity efforts**
 
 ## **Game Controls**
-- **B:** View recipes  
-- **A/D:** Walk left/right  
-- **Space:** Jump  
-- **F:** Fetch ingredients  
-- **E:** Pick up/drop ingredients or place/remove them from cookware  
+- **B:** View the book of recipes (click to turn pages)
+- **A/D:** Walk left/right
+- **Space:** Jump
+- **F:** Fetch ingredients from resource spots
+- **E:** Pick up/drop ingredients or place/remove them from cookware
 - **Enter:** Cook
