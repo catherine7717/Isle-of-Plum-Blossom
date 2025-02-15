@@ -5,6 +5,11 @@ A cooking simulation game that blends traditional Chinese culinary culture with 
 ## **Beta Release**
 
 **Now available!** Play the HTML version here: [**Isle of Plum Blossom on Itch.io**](https://catherinegao7717.itch.io/isle-of-plum-blossom).
+Gameplay Showcase here: [**Isle of Plum Blossom on Youtube**](https://catherinegao7717.itch.io/isle-of-plum-blossom).
+Standalone version: 
+- Clone the repo from this page
+- Navigate to the folder corresponding to your operating system
+- Run the executable
 
 ## **Future Plan**
 
