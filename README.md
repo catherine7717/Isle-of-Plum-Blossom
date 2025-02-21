@@ -16,7 +16,6 @@ Standalone version:
 ### **Final Release:**
 - **Collect player feedback**
 - **Incorporate improvements**
-- **Publish to Steam**
 
 ## **Game Controls**
 - **B/Esc:** Open/close the book of recipes (left-click to turn pages)
@@ -28,4 +27,6 @@ Standalone version:
 
 ## **Credits**
 - **Designed and Developed by:** Xin(Catherine) Gao
-- **Sound Effects from:** https://artlist.io/
+- **Artwork:** AI-Generated (DALLE), curated and refined by me
+- **Background Music:** 入画江南 古筝 by 天易音乐 (Used for educational purposes only, no commercial intent.)
+- **Sound Effects:** https://artlist.io/
